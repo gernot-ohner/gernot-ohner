@@ -7,4 +7,3 @@
 - 📫 How to reach me: [mailto:gernot.ohner@gmail.com](gernot.ohner@gmail.com)
 - You can learn more about me at: [https://ohner.dev/](https://ohner.dev/)
 
----
